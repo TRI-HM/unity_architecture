@@ -1,6 +1,9 @@
 using UnityEngine;
 using ProjectName.Domain.Entities;
 using ProjectName.Domain.Services;
+using ProjectName.Infrastructure.Audio;
+using ProjectName.Infrastructure.Input;
+using ProjectName.Domain.Interfaces;
 
 namespace ProjectName.Infrastructure.Managers
 {
